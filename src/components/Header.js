@@ -3,7 +3,7 @@ import React from 'react'
 export const Header = () => {
     return (
         <h1>
-            Transaction Tracker System
+           Daily Transaction Tracker System
         </h1>
     )
 }
